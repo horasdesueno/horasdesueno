@@ -1,0 +1,36 @@
+*{
+    margin: 0px;
+    padding: 0%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+a {
+    color: black;
+    padding: 0.3125em;
+}
+
+a:hover {
+    color: brown;
+}
+
+#header{
+    width: 100%;
+    height: auto;
+}
+
+#titulos-header{
+    font-size: 1.5em;
+    text-align: center;
+}
+
+#content-header{
+    width: 100%;
+    height: auto;
+    background-color: #CFCFC4;
+}
+
+#article-header{
+    font-size: 1em;
+    text-align: center;
+    width: 99%;
+}
